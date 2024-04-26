@@ -1877,3 +1877,172 @@ position: relative;
 	font-size: 16px;
 }
 /*##########> Custom Css End <############ */
+
+/*############> Profile Page Start <###########  */
+
+.section2 {
+        
+	background-color: #F6F6F6;
+
+
+}
+
+.bg-img {
+	background-image: url('../image/Frame48096145.png');
+background-size: cover;
+background-position: center;
+width: 100%;
+position: relative;
+max-width: 1475px;
+height: 446.6px;
+
+
+}
+
+.headingprofile {
+	font-family: "Montserrat", sans-serif;
+	font-size: 34px;
+	font-weight: 600;
+	line-height: 44.14px;
+	text-align: left;
+	color: #000000;
+
+
+}
+
+.paw-img {
+	position: absolute;
+	width: 100% ;       
+	top: 99%; 
+	left: 45px; 
+	transform: translateY(-50%);  
+	max-width: 199.16px;
+	height: auto; 
+	background-color:white;
+	border-radius: 50%;
+	border: 7px solid white;
+
+
+}
+
+.blog-card-icon1 {
+width: 100%;
+max-width: 16.25px;
+height: 13px;
+}
+
+.pt-custom {
+padding-top: 120px;
+}
+
+
+
+.content {
+font-family: "Montserrat", sans-serif;
+font-size: 21px;
+font-weight: 600;
+line-height: 29.43px;
+text-align: left;
+color: #6A6666;
+
+
+}
+
+.custom-mapicon {
+width: 20.79px !important;
+height: 30.03px !important;
+font-size: 31px;
+color:  #4F63BE
+
+
+}
+
+.custom-card-location {
+font-family: "Montserrat";
+font-size: 18px;
+font-weight: 900;
+line-height: 25.75px;
+text-align: left;
+color: #6A6666;
+
+
+}
+
+.premium-icon {
+max-width: 100%;
+width: 42.25px;
+height: 42.25px;
+
+}
+
+.premium-content {
+font-family: "Montserrat";
+font-size: 25.35px;
+font-weight: 700;
+line-height: 30.9px;
+text-align: left;
+color: #4F63BE;
+
+
+
+}
+
+.dates-custom {
+font-family: "Montserrat";
+font-size: 21.12px;
+font-weight: 600;
+line-height: 25.75px;
+text-align: left;
+color: #171718;
+}
+
+.dates-custom-span {
+color: #6A6666;
+
+}
+
+.acount-icon {
+width: 100%;
+max-width: 21px;
+height: 21px;
+border: 1.5px;
+margin-bottom: 4px;
+}
+
+.acount-content {
+font-family: "Montserrat";
+font-size: 18px;
+font-weight: 600;
+line-height: 21.94px;
+text-align: left;
+color: #6A6666;
+gap: 10px;
+}
+
+@media (max-width: 440px) {
+
+
+.section2 {
+padding-top: 30px;
+}
+
+.paw-img {
+
+left: 26px;
+}
+}
+
+.text-grey-custom {
+font-family:"Montserrat", sans-serif;
+font-size: 32px;
+font-weight: 600;
+line-height: 39.01px;
+text-align: left;
+color: #969BA0;
+
+}
+
+.text-grey-custom-span {
+color: #171718;
+}
+/*############> Profile Page End <#############  */
